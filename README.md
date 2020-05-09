@@ -1,9 +1,12 @@
 # DemoTrie
 A sample app using Trie data structure for inserting and searching huge data set from and in a local file. Written in MVVM design pattern
 
-The project covers following asks from the given task:
-* Used MVVM design pattern.
+## Functional details:
+* The app demonstrates the usage of Trie data structure and how its usage enhances app's speed. 
+
+## Implementation details:
 * Written in Swift.
+* Used MVVM design pattern.
 * Downloads the list of cities from local JSON file.
 * Displays the cities in a scrollable list, in alphabetical order (city first, country after). 
 * Ability to filter the results.
