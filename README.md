@@ -1,8 +1,8 @@
 # DemoTrie
-A sample app using Trie data structure for inserting and searching huge data set from and in a local file. Written in MVVM design pattern
+A sample app using **Trie data structure for inserting and searching huge data set** from and in a local file. Written in MVVM design pattern
 
 ## Functional details:
-* The app demonstrates the usage of Trie data structure and how its usage enhances app's speed. 
+* The app demonstrates the usage of **Trie data structure** and how its usage enhances app's speed. 
 
 ## Implementation details:
 * Written in Swift.
